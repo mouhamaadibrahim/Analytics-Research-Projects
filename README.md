@@ -2,8 +2,17 @@
 
 Welcome to my research-driven analytics portfolio! This repository showcases a collection of research projects focused on data analysis, sensor optimization, and bioimpedance modeling conducted during my PhD and post-doc work. Notably, one of my research publications, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), was ranked in the top 25% by Altmetric, reflecting the significant impact and reach of my work in the field.
 
+---
+
 **Industry Adoption and Impact**  
-Through data-driven analysis, the optimal ratio was determined to be 0.66, resulting in significant improvements in sensor performance. The model was validated through simulations and experiments, leading to industry adoption and patenting by 4 industry leaders. Details of this adoption can be found in the ["Proof of Impact"](link_to_be_added_later) repository, which will highlight the real-world impact of these contributions.
+Throughout my research, I engineered models that expanded analysis capabilities by 65% and boosted sensor sensitivity by 18% at IJL. The work led to significant breakthroughs in sensor design, culminating in the adoption and patenting of the optimized conductivity sensor design by 4 industry leaders. The key milestones include:
+
+- Upgraded conductivity sensor design with MATLAB by engineering bioimpedance models, mining physiological characteristics as electrical elements, resulting in adoption by 4 industry leaders, each securing a patent.
+- Identified the optimal sensor design ratio (S/W = 0.66), which expanded the analysis band by 65% and reduced measurement errors by 18%.
+- Expanded measurement analysis band from 600 MHz to 988 MHz via engineering optimal biosensors, significantly improving sensitivity for health applications.
+- Pioneered data storytelling, authoring 5+ highly cited papers and transforming data into industry-shaping insights—one ranked in the top 25% by Altmetric.
+
+This repository documents the full research process, including key calculations, simulations, and the real-world impact of these contributions.
 
 ---
 
