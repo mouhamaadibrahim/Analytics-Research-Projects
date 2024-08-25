@@ -4,7 +4,8 @@ Welcome to my research-driven analytics portfolio! This repository showcases a c
 
 ---
 
-**Notably, one of my research publications, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), was ranked in the top 25% by Altmetric, reflecting the significant impact and reach of my work in the field.**
+**Pioneered data storytelling, authoring 5+ highly cited papers and transforming data into industry-shaping insights—one ranked in the top 25% by Altmetric. Notably, one of my research publications, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), was ranked in the top 25% by Altmetric, reflecting the significant impact and reach of my work in the field.**  
+[View my full publication list on Google Scholar](https://scholar.google.com/citations?user=b7XuxZIAAAAJ&hl=en)
 
 ---
 
@@ -14,13 +15,13 @@ Throughout my research, I engineered models that expanded analysis capabilities 
 - Upgraded conductivity sensor design with MATLAB by engineering bioimpedance models, mining physiological characteristics as electrical elements, resulting in adoption by 4 industry leaders, each securing a patent.
 - Identified the optimal sensor design ratio (S/W = 0.66), which expanded the analysis band by 65% and boosted sensitivity by 18%.
 - Expanded measurement analysis band from 600 MHz to 988 MHz via engineering optimal biosensors, significantly improving sensitivity for health applications by 18%.
-- Pioneered data storytelling, authoring 5+ highly cited papers and transforming data into industry-shaping insights—one ranked in the top 25% by Altmetric.
 
 This repository documents the full research process, including key calculations, simulations, and the real-world impact of these contributions.
 
 ---
 
 ## Table of Contents
+
 1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)
    - [Engineering Models to Determine Optimal Sensor Design (S/W = 0.66)](#1-engineering-models-to-determine-optimal-sensor-design-sw--066)
    - [Calculation of the 65% Improvement in Analysis Effectiveness](#2-calculation-of-the-65-improvement-in-analysis-effectiveness)
@@ -73,7 +74,7 @@ This section documents the improvement in sensor sensitivity achieved by reducin
 
 #### Experiment Details
 - Conductivity measurements were compared against standard values (0.7 S/m).
-- The optimized sensor (Capteur 5) outperformed non-optimized configurations (Capteurs 7 and 8) by providing more accurate readings.
+- The optimized sensor (Sensor 5) outperformed non-optimized configurations (Sensors 7 and 8) by providing more accurate readings.
 
 ### References and Resources for Bioimpedance Modeling and Sensor Optimization
 - [Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric%20parameters%20optimization%20of%20planar%20interdigitated%20electrodes%20for%20bioimpedance%20spectroscopy.pdf)
