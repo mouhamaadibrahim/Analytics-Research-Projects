@@ -43,7 +43,6 @@ The analysis band increased from 6 × 10⁶ Hz (non-optimized) to 9.88 × 10⁶ 
 Improvement (%) = [(9.88 × 10⁶ - 6 × 10⁶) / 6 × 10⁶] × 100 ≈ 65%
 
 ## References and Resources
-- [Publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric%20parameters%20optimization%20of%20planar%20interdigitated%20electrodes%20for%20bioimpedance%20spectroscopy.pdf)
 - [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)  
   **Citation:**  
   Mouhamad Ibrahim. *Mesure de bioimpédance électrique par capteurs interdigités*. Médecine humaine et pathologie. Université de Lorraine, 2012. Français. ⟨NNT: 2012LORR0307⟩. ⟨tel-01749652⟩
@@ -59,8 +58,6 @@ This section documents the improvement in sensor sensitivity achieved by reducin
 - The optimized sensor (Capteur 5) outperformed non-optimized configurations (Capteurs 7 and 8) by providing more accurate readings.
 
 ## References and Resources
-- [Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric%20parameters%20optimization%20of%20planar%20interdigitated%20electrodes%20for%20bioimpedance%20spectroscopy.pdf)
-
 - [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)
 
 ## Contact
