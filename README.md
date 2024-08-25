@@ -1,8 +1,11 @@
 # Research-Analytics-Portfolio by Mouhamad Ibrahim, PhD
 
-Welcome to my research-driven analytics portfolio! This repository showcases a collection of research projects focused on data analysis, sensor optimization, and bioimpedance modeling conducted during my PhD and post-doc work.
+Welcome to my research-driven analytics portfolio! This repository showcases a collection of research projects focused on data analysis, sensor optimization, and bioimpedance modeling conducted during my PhD and post-doc work. Notably, one of my research publications, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), was ranked in the top 25% by Altmetric, reflecting the significant impact and reach of my work in the field.
 
-Notably, one of my research publications, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), was ranked in the top 25% by Altmetric, reflecting the significant impact and reach of my work in the field.
+**Industry Adoption and Impact**  
+Through data-driven analysis, the optimal ratio was determined to be 0.66, resulting in significant improvements in sensor performance. The model was validated through simulations and experiments, leading to industry adoption and patenting by 4 industry leaders. Details of this adoption can be found in the ["Proof of Impact"](link_to_be_added_later) repository, which will highlight the real-world impact of these contributions.
+
+---
 
 ## Table of Contents
 1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)
