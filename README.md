@@ -2,7 +2,18 @@
 
 Welcome to my research-driven analytics portfolio! This repository showcases a collection of research projects focused on data analysis, sensor optimization, and bioimpedance modeling conducted during my PhD and post-doc work.
 
-## Featured Projects
+## Table of Contents
+1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)
+   - [Engineering Models to Determine Optimal Sensor Design (S/W = 0.66)](#1-engineering-models-to-determine-optimal-sensor-design-sw--066)
+   - [Calculation of the 65% Improvement in Analysis Effectiveness](#2-calculation-of-the-65-improvement-in-analysis-effectiveness)
+   - [Calculation of the 18% Sensitivity Improvement](#3-calculation-of-the-18-sensitivity-improvement)
+   - [References and Resources](#references-and-resources-for-bioimpedance-modeling-and-sensor-optimization)
+2. [Post-Doc Research](#post-doc-research)
+   - **[Placeholder for Post-Doc Project 1](#placeholder-for-post-doc-project-1)**
+   - **[Placeholder for Post-Doc Project 2](#placeholder-for-post-doc-project-2)**
+   - [References and Resources](#references-and-resources-for-post-doc-research)
+
+## PhD Research: Bioimpedance Modeling and Sensor Optimization
 
 ### 1. Engineering Models to Determine Optimal Sensor Design (S/W = 0.66)
 
@@ -19,12 +30,6 @@ The bioimpedance model was developed by analyzing physiological characteristics 
 - Conducting simulations to identify the optimal sensor configuration.
 - The results demonstrated that the S/W ratio of 0.66 provided the best performance, expanding the analysis band and reducing the cutoff frequency.
 
-## References and Resources
-- [Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric%20parameters%20optimization%20of%20planar%20interdigitated%20electrodes%20for%20bioimpedance%20spectroscopy.pdf)
-
-- [Access the publication online](https://doi.org/10.5617/jeb.304)  
-- [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)
-
 ### 2. Calculation of the 65% Improvement in Analysis Effectiveness
 
 The analysis band was expanded by 65% by comparing the optimal sensor (S/W = 0.66) with other configurations. The calculation process included:
@@ -39,13 +44,8 @@ The analysis band was expanded by 65% by comparing the optimal sensor (S/W = 0.6
   Analysis Band = 6 × 10⁶ Hz
 
 **Improvement Calculation:**  
-The analysis band increased from 6 × 10⁶ Hz (non-optimized) to 9.88 × 10⁶ Hz (optimized), leading to an approximate 65% enhancement. This calculation is derived from:  
+The analysis band increased from 6 × 10⁶ Hz (non-optimized) to 9.88 × 10⁶ Hz (optimized), leading to an approximate 65% enhancement. The calculation is:  
 Improvement (%) = [(9.88 × 10⁶ - 6 × 10⁶) / 6 × 10⁶] × 100 ≈ 65%
-
-## References and Resources
-- [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)  
-  **Citation:**  
-  Mouhamad Ibrahim. *Mesure de bioimpédance électrique par capteurs interdigités*. Médecine humaine et pathologie. Université de Lorraine, 2012. Français. ⟨NNT: 2012LORR0307⟩. ⟨tel-01749652⟩
 
 ### 3. Calculation of the 18% Sensitivity Improvement
 
@@ -57,8 +57,23 @@ This section documents the improvement in sensor sensitivity achieved by reducin
 - Conductivity measurements were compared against standard values (0.7 S/m).
 - The optimized sensor (Capteur 5) outperformed non-optimized configurations (Capteurs 7 and 8) by providing more accurate readings.
 
-## References and Resources
-- [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)
+### References and Resources for Bioimpedance Modeling and Sensor Optimization
+- [Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric%20parameters%20optimization%20of%20planar%20interdigitated%20electrodes%20for%20bioimpedance%20spectroscopy.pdf)
+- [Access the publication online](https://doi.org/10.5617/jeb.304)
+- [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)  
+  **Citation:**  
+  Mouhamad Ibrahim. *Mesure de bioimpédance électrique par capteurs interdigités*. Médecine humaine et pathologie. Université de Lorraine, 2012. Français. ⟨NNT: 2012LORR0307⟩. ⟨tel-01749652⟩
+
+## Post-Doc Research
+
+### Placeholder for Post-Doc Project 1
+(Details to be added)
+
+### Placeholder for Post-Doc Project 2
+(Details to be added)
+
+### References and Resources for Post-Doc Research
+(References to be added)
 
 ## Contact
 For more information, feel free to reach out at [mouhamaad.ibrahim@gmail.com](mailto:mouhamaad.ibrahim@gmail.com).
