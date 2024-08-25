@@ -19,9 +19,9 @@ The bioimpedance model was developed by analyzing physiological characteristics 
 - Conducting simulations to identify the optimal sensor configuration.
 - The results demonstrated that the S/W ratio of 0.66 provided the best performance, expanding the analysis band and reducing the cutoff frequency.
 
-[Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy.pdf)  
-[Access the publication online]([website_link_for_publication](https://doi.org/10.5617/jeb.304))  
-[Access the thesis for further details]([website_link_for_thesis](https://hal.univ-lorraine.fr/tel-01749652))
+[Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric_parameters_optimization_of_planar_interdigitated_electrodes.pdf)  
+[Access the publication online](https://doi.org/10.5617/jeb.304)  
+[Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)
 
 ### 2. Calculation of the 65% Improvement in Analysis Effectiveness
 
@@ -51,7 +51,7 @@ This section documents the improvement in sensor sensitivity achieved by reducin
 
 ## References and Resources
 - [Publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric_parameters_optimization_of_planar_interdigitated_electrodes.pdf)
-- [Access the thesis for further details]([website_link_for_thesis](https://hal.univ-lorraine.fr/tel-01749652))
+- [Access the thesis for further details](https://hal.univ-lorraine.fr/tel-01749652)
 
 ## Contact
-For more information, feel free to reach out at [mouhamaad.ibrahim@gmail.com].
+For more information, feel free to reach out at [mouhamaad.ibrahim@gmail.com](mailto:mouhamaad.ibrahim@gmail.com).
