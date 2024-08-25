@@ -19,7 +19,7 @@ The bioimpedance model was developed by analyzing physiological characteristics 
 - Conducting simulations to identify the optimal sensor configuration.
 - The results demonstrated that the S/W ratio of 0.66 provided the best performance, expanding the analysis band and reducing the cutoff frequency.
 
-[Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric_parameters_optimization_of_planar_interdigitated_electrodes.pdf)  
+[Download the publication: Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy](resources/Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy.pdf)  
 [Access the publication online]([website_link_for_publication](https://doi.org/10.5617/jeb.304))  
 [Access the thesis for further details]([website_link_for_thesis](https://hal.univ-lorraine.fr/tel-01749652))
 
