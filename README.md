@@ -1,6 +1,6 @@
 # Research-Analytics-Portfolio by Mouhamad Ibrahim, PhD
 
-Welcome to my research-driven analytics portfolio! This repository showcases a collection of research projects focused on data analysis, sensor optimization, and bioimpedance modeling conducted during my PhD and post-doc work.
+Welcome to my research-driven analytics portfolio! This repository showcases a collection of research projects focused on data analysis, sensor optimization, and bioimpedance modeling conducted during my PhD and post-doc work. Notably, one of my research publications was ranked in the top 25% by Altmetric, reflecting the significant impact and reach of my work in the field. [View Altmetric Details]([your_altmetric_link](https://dimensions.altmetric.com/details/81105616#score)).
 
 ## Table of Contents
 1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)
