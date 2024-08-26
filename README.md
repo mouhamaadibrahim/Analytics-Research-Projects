@@ -120,9 +120,8 @@ The project was a cross-functional collaboration between:
 The calculation compares the detachment percentage on glass versus fibers. Since higher detachment indicates lower adhesion, the 85% detachment on glass versus 42% on fibers shows that fibers have significantly stronger adhesion.
 
 **Calculation:**
-\[
-\text{Relative Change} = \frac{\text{85% (glass detachment)} - \text{42% (fiber detachment)}}{\text{42% (fiber detachment)}} \times 100 \approx 102\%
-\]
+
+Relative Change = [(85% (glass detachment) - 42% (fiber detachment)) / 42% (fiber detachment)] × 100 ≈ 102%
 
 This calculation indicates that glass has 102% more detachment than fibers, implying that fibers have a 102% increase in adhesion compared to glass.
 
