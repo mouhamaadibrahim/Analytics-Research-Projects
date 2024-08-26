@@ -104,7 +104,7 @@ The project was a cross-functional collaboration between:
 
 #### Methodology Highlights
 - **Electrospinning Synthesis**: Created axon-mimicking fibers to study cell behavior.
-- **Microfluidic Platform Development**: Incorporated shear force generators and electrical impedance spectroscopy to monitor single-cell motility.
+- **Microfluidic Platform Development**: Incorporated shear force generators to monitor single-cell motility.
 - **Cross-Functional Data Analysis**: Integrated fiber analysis, cell culture experiments, and microfluidic design for a comprehensive study.
 
 ### 1. Development of an Instrumented Microfluidic Platform (Gliomatrack) for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography
