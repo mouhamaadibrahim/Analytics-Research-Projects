@@ -107,22 +107,27 @@ The project was a cross-functional collaboration between:
 - **Microfluidic Platform Development**: Incorporated shear force generators and electrical impedance spectroscopy to monitor single-cell motility.
 - **Cross-Functional Data Analysis**: Integrated fiber analysis, cell culture experiments, and microfluidic design for a comprehensive study.
 
-#### Results and Impact (400% Metric Focus)
+### 1. Development of an Instrumented Microfluidic Platform (Gliomatrack) for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography
+
+#### Results and Impact (30% Metric Focus)
 - **400% Improvement in Data Collection Efficiency**: The multi-zone, single-flow device enabled simultaneous measurements across five distinct shear stress conditions, reducing wasted time by 5x.
+- **30% Error Reduction via Strategic Bubble Prevention**: A novel dual-gate injection system was engineered to eliminate air bubbles, a common cause of up to 30% measurement errors in microfluidic systems. By integrating this technique, the device significantly improved data reliability and elevated overall data quality.
 
 #### Context and Problem Statement
 The initial microfluidic device design faced two key issues:
 1. **Fluidic Resistance**: Narrow lateral access tubes (75 µm) led to high fluidic resistance, limiting achievable shear stress and affecting the effectiveness of cell detachment studies.
 2. **Stair-Step Flow Profiles**: Inconsistent shear stress across the channel led to memory effects during detachment protocols, making it difficult to obtain reproducible results.
+3. **Air Bubble Formation**: Air bubbles disrupted flow patterns, obscured optical readings, and interfered with cell adhesion measurements, leading to up to 30% inaccuracies in data.
 
 #### Solution and Improvements
 The newly engineered multi-zone microfluidic device introduced the following advancements:
 1. **Optimized Access Points**: Larger top-access fluidic channels (800 µm) reduced fluidic resistance, allowing for higher shear stress levels, which are critical for accurate studies.
 2. **Single-Flow, Multi-Zone Design**: The device’s five zones, with varying widths (500 µm to 2531 µm), generated a wide range of shear stresses (14 dy/cm² to 75 dy/cm²) using a single flow rate (1500 µl/min).
-3. **Enhanced Data Quality and Efficiency**: The improved shear stress profile ensured smoother flow and reduced troubleshooting time, leading to more reliable data.
+3. **Advanced Bubble Prevention Techniques**: Developed a dual-gate injection system and implemented strategic channel designs, eliminating air bubbles and reducing measurement errors by 30%.
 
 #### Quantified Impact
 - **400% Increase in Data Collection Efficiency**: The design allowed for comprehensive experiments in less time, reducing wasted time by 5x.
+- **30% Error Reduction**: Improved data quality and reliability through effective bubble mitigation.
 
 ### References and Resources for Post-Doc Research
 
@@ -131,6 +136,7 @@ The newly engineered multi-zone microfluidic device introduced the following adv
 
 2. **[Gliomatrack Project Results (PDF)](resources/Gliomatrack%20Project%20Results.pdf)**  
    Comprehensive presentation of the experimental results, challenges encountered, and metrics achieved throughout the Gliomatrack project.
+
 
 ## Contact
 For more information, feel free to reach out at [mouhamaad.ibrahim@gmail.com](mailto:mouhamaad.ibrahim@gmail.com).
