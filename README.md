@@ -85,7 +85,7 @@ This section documents the improvement in sensor sensitivity achieved by reducin
 
 ## Post-Doc Research
 
-### 1. Development of an Instrumented Microfluidic Platform for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography
+### 1. Development of an Instrumented Microfluidic Platform (Gliomatrack) for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography
 
 #### Project Overview
 This project involved developing a microfluidic platform integrated with a 3D fibrous scaffold that simulates the brain’s neural environment. The platform was designed to study glioma cell adhesion and migration, offering insights into the factors influencing glioma growth and migration for personalized therapeutic strategies.
