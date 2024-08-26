@@ -28,7 +28,7 @@ This repository documents the full research process, including key calculations,
    - [Calculation of the 18% Sensitivity Improvement](#3-calculation-of-the-18-sensitivity-improvement)
    - [References and Resources](#references-and-resources-for-bioimpedance-modeling-and-sensor-optimization)
 2. [Post-Doc Research](#post-doc-research)
-   - [Development of an Instrumented Microfluidic Platform for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography](#1-development-of-an-instrumented-microfluidic-platform-for-studying-glioma-cell-adhesion-and-migration-on-a-3d-fibrous-scaffold-mimicking-neural-topography)
+   - [Development of an Instrumented Microfluidic Platform (Gliomatrack) for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography](#1-development-of-an-instrumented-microfluidic-platform-gliomatrack-for-studying-glioma-cell-adhesion-and-migration-on-a-3d-fibrous-scaffold-mimicking-neural-topography)
    - **[Placeholder for Post-Doc Project 2](#placeholder-for-post-doc-project-2)**
    - [References and Resources](#references-and-resources-for-post-doc-research)
 
