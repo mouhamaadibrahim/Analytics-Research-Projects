@@ -85,14 +85,52 @@ This section documents the improvement in sensor sensitivity achieved by reducin
 
 ## Post-Doc Research
 
-### Placeholder for Post-Doc Project 1
-(Details to be added)
+### 1. Development of an Instrumented Microfluidic Platform for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography
 
-### Placeholder for Post-Doc Project 2
-(Details to be added)
+#### Project Overview
+This project involved developing a microfluidic platform integrated with a 3D fibrous scaffold that simulates the brain’s neural environment. The platform was designed to study glioma cell adhesion and migration, offering insights into the factors influencing glioma growth and migration for personalized therapeutic strategies.
+
+#### Objectives
+- Develop a 3D fibrous scaffold that accurately replicates the neural topography.
+- Design and validate a microfluidic platform that differentiates between highly migratory and proliferative gliomas.
+- Explore factors influencing glioma growth and migration, focusing on potential therapeutic interventions.
+
+#### Collaboration Teams
+The project was a cross-functional collaboration between:
+- **IEMN**: The primary team responsible for BioMEMS and microfluidic platform development.
+- **IEM**: Focused on electrospinning synthesis of fibers and chemical biofunctionalization.
+- **IRI**: Specialized in surface chemistry, patterning, and biosensors.
+- **INM**: Handled glioma cell studies and clinical validation.
+
+#### Methodology Highlights
+- **Electrospinning Synthesis**: Created axon-mimicking fibers to study cell behavior.
+- **Microfluidic Platform Development**: Incorporated shear force generators and electrical impedance spectroscopy to monitor single-cell motility.
+- **Cross-Functional Data Analysis**: Integrated fiber analysis, cell culture experiments, and microfluidic design for a comprehensive study.
+
+#### Results and Impact (400% Metric Focus)
+- **400% Improvement in Data Collection Efficiency**: The multi-zone, single-flow device enabled simultaneous measurements across five distinct shear stress conditions, reducing wasted time by 5x.
+
+#### Context and Problem Statement
+The initial microfluidic device design faced two key issues:
+1. **Fluidic Resistance**: Narrow lateral access tubes (75 µm) led to high fluidic resistance, limiting achievable shear stress and affecting the effectiveness of cell detachment studies.
+2. **Stair-Step Flow Profiles**: Inconsistent shear stress across the channel led to memory effects during detachment protocols, making it difficult to obtain reproducible results.
+
+#### Solution and Improvements
+The newly engineered multi-zone microfluidic device introduced the following advancements:
+1. **Optimized Access Points**: Larger top-access fluidic channels (800 µm) reduced fluidic resistance, allowing for higher shear stress levels, which are critical for accurate studies.
+2. **Single-Flow, Multi-Zone Design**: The device’s five zones, with varying widths (500 µm to 2531 µm), generated a wide range of shear stresses (14 dy/cm² to 75 dy/cm²) using a single flow rate (1500 µl/min).
+3. **Enhanced Data Quality and Efficiency**: The improved shear stress profile ensured smoother flow and reduced troubleshooting time, leading to more reliable data.
+
+#### Quantified Impact
+- **400% Increase in Data Collection Efficiency**: The design allowed for comprehensive experiments in less time, reducing wasted time by 5x.
 
 ### References and Resources for Post-Doc Research
-(References to be added)
+
+1. **[5 Visualization Zones Single-Flow Device (PDF)](resources/5%20Visualization%20Zones%20Single-Flow%20Device.pdf)**  
+   Detailed design document explaining the development of the multi-zone microfluidic device, featuring variable widths and shear stress conditions.
+
+2. **[Gliomatrack Project Results (PDF)](resources/Gliomatrack%20Project%20Results.pdf)**  
+   Comprehensive presentation of the experimental results, challenges encountered, and metrics achieved throughout the Gliomatrack project.
 
 ## Contact
 For more information, feel free to reach out at [mouhamaad.ibrahim@gmail.com](mailto:mouhamaad.ibrahim@gmail.com).
