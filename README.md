@@ -14,7 +14,8 @@ My research publication, ["Geometric parameters optimization of planar interdigi
 
 **Industry Adoption and Impact**  
 Across my PhD and post-doc research, I developed advanced data analysis methodologies and engineered models that expanded analysis capabilities by 65%, boosted sensor sensitivity by 18%, and optimized experimental processes by up to 6x.  
-My work led to breakthroughs in both sensor design and microfluidic platforms, driving significant impact across multiple projects. These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications [as documented here](https://dimensions.altmetric.com/details/81105616/patents).  
+My work led to breakthroughs in both sensor design and microfluidic platforms, driving significant impact across multiple projects.  
+These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications [as documented here](https://dimensions.altmetric.com/details/81105616/patents).  
 Key milestones include:
 
 - Developed optimized conductivity sensors and bioimpedance models using MATLAB and data analysis techniques, resulting in the adoption of designs by 4 industry leaders, each securing a patent.
