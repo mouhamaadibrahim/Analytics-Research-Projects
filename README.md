@@ -1,7 +1,8 @@
 # Research Analytics Portfolio by Mouhamad Ibrahim, PhD
 
-Welcome to my research-driven analytics portfolio! This repository showcases a collection of advanced data analysis, sensor optimization, and bioimpedance modeling projects conducted during my PhD and post-doc work.
+Welcome to my research-driven analytics portfolio! This repository showcases a collection of advanced data analysis, sensor optimization, and bioimpedance modeling projects conducted during my PhD and post-doc work.  
 From modeling physiological characteristics to analyzing large datasets, I applied statistical techniques and developed models that led to significant research advancements and practical applications in industry and healthcare.
+
 
 
 ---
