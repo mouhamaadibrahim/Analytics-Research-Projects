@@ -1,33 +1,36 @@
 # Research Analytics Portfolio by Mouhamad Ibrahim, PhD
 
-Welcome to my research-driven analytics portfolio! This repository showcases a collection of research projects focused on data analysis, sensor optimization, and bioimpedance modeling conducted during my PhD and post-doc work.
+Welcome to my research-driven analytics portfolio! This repository showcases a collection of advanced data analysis, sensor optimization, and bioimpedance modeling projects conducted during my PhD and post-doc work. From modeling physiological characteristics to analyzing large datasets, I applied statistical techniques and developed models that led to significant research advancements and practical applications in industry and healthcare.
+
 
 ---
 
-**Pioneered data storytelling, authoring 5+ highly cited papers and transforming data into industry-shaping insights—one ranked in the top 25% by Altmetric. Notably, one of my research publications, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), was ranked in the top 25% by Altmetric, reflecting the significant impact and reach of my work in the field.**  
+**Pioneered data storytelling by authoring 5+ highly cited papers that transformed research into actionable insights—one ranked in the top 25% by Altmetric. My research publication, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), reflects the broad impact of my work in the field.**  
 [View my full publication list on Google Scholar](https://scholar.google.com/citations?user=b7XuxZIAAAAJ&hl=en)
 
 ---
 
 **Industry Adoption and Impact**  
-Throughout my research, I engineered models that expanded analysis capabilities by 65% and boosted sensor sensitivity by 18% at IJL. The work led to significant breakthroughs in sensor design, culminating in the adoption and patenting of the optimized conductivity sensor design by 4 industry leaders [as documented here](https://dimensions.altmetric.com/details/81105616/patents). The key milestones include:
+Across my PhD and post-doc research, I developed advanced data analysis methodologies and engineered models that expanded analysis capabilities by 65%, boosted sensor sensitivity by 18%, and optimized experimental processes by up to 6x. My work led to breakthroughs in both sensor design and microfluidic platforms, driving significant impact across multiple projects. These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications. Key milestones include:
 
-- Upgraded conductivity sensor design with MATLAB by engineering bioimpedance models, mining physiological characteristics as electrical elements, resulting in adoption by 4 industry leaders, each securing a patent.
-- Identified the optimal sensor design ratio (S/W = 0.66), which expanded the analysis band by 65% and boosted sensitivity by 18%.
-- Expanded measurement analysis band from 600 MHz to 988 MHz via engineering optimal biosensors, significantly improving sensitivity for health applications by 18%.
+- Developed optimized conductivity sensors and bioimpedance models using MATLAB and data analysis techniques, resulting in the adoption of designs by 4 industry leaders, each securing a patent.
+- Designed a microfluidic platform that improved data collection efficiency by 400% and reduced production costs by 70% through innovative material choices.
+- Applied data mining and analysis to cell culture datasets, uncovering key insights that led to a 6x faster method for quantifying Cryptosporidium infection stages.
 
-This repository documents the full research process, including key calculations, simulations, and the real-world impact of these contributions.
+This repository documents the complete research process, including key calculations, experimental results, and the real-world impact of these contributions.
 
 ---
 
 ## Table of Contents
 
-1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)
+1. 1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)  
+   Projects focused on developing sensor optimization techniques using bioimpedance modeling, leading to 65% improvement in analysis capabilities and industry adoption.
    - [Engineering Models to Determine Optimal Sensor Design (S/W = 0.66)](#1-engineering-models-to-determine-optimal-sensor-design-sw--066)
    - [Calculation of the 65% Improvement in Analysis Effectiveness](#2-calculation-of-the-65-improvement-in-analysis-effectiveness)
    - [Calculation of the 18% Sensitivity Improvement](#3-calculation-of-the-18-sensitivity-improvement)
    - [References and Resources for Bioimpedance Modeling and Sensor Optimization](#references-and-resources-for-bioimpedance-modeling-and-sensor-optimization)
-2. [Post-Doc Research](#post-doc-research)
+2. [Post-Doc Research](#post-doc-research)  
+   Projects focused on developing microfluidic platforms and applying data analysis methodologies for studying cancer cell behavior and infection processes, resulting in faster detection methods and cost-efficient experimental designs.
    - [Development of an Instrumented Microfluidic Platform (Gliomatrack) for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography](#1-development-of-an-instrumented-microfluidic-platform-gliomatrack-for-studying-glioma-cell-adhesion-and-migration-on-a-3d-fibrous-scaffold-mimicking-neural-topography)
    - [Electrical Impedance Sensor for Quantitative Monitoring of Cryptosporidium Infection Processes](#2-electrical-impedance-sensor-for-quantitative-monitoring-of-cryptosporidium-infection-processes)
    - [References and Resources for Project 1: Development of an Instrumented Microfluidic Platform](#references-and-resources-for-project-1-development-of-an-instrumented-microfluidic-platform)
