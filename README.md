@@ -4,7 +4,6 @@ Welcome to my research-driven analytics portfolio! This repository showcases a c
 From modeling physiological characteristics to analyzing large datasets, I applied statistical techniques and developed models that led to significant research advancements and practical applications in industry and healthcare.
 
 
-
 ---
 
 **Pioneered data storytelling by authoring 5+ highly cited papers that transformed research into actionable insights—one ranked in the top 25% by Altmetric. My research publication, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), reflects the broad impact of my work in the field.**  
