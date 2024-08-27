@@ -6,13 +6,16 @@ From modeling physiological characteristics to analyzing large datasets, I appli
 
 ---
 
-**Pioneered data storytelling by authoring 5+ highly cited papers that transformed research into actionable insights—one ranked in the top 25% by Altmetric. My research publication, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), reflects the broad impact of my work in the field.**  
+**Pioneered data storytelling by authoring 5+ highly cited papers that transformed research into actionable insights—one ranked in the top 25% by Altmetric.  
+My research publication, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), reflects the broad impact of my work in the field.**  
 [View my full publication list on Google Scholar](https://scholar.google.com/citations?user=b7XuxZIAAAAJ&hl=en)
 
 ---
 
 **Industry Adoption and Impact**  
-Across my PhD and post-doc research, I developed advanced data analysis methodologies and engineered models that expanded analysis capabilities by 65%, boosted sensor sensitivity by 18%, and optimized experimental processes by up to 6x. My work led to breakthroughs in both sensor design and microfluidic platforms, driving significant impact across multiple projects. These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications. Key milestones include:
+Across my PhD and post-doc research, I developed advanced data analysis methodologies and engineered models that expanded analysis capabilities by 65%, boosted sensor sensitivity by 18%, and optimized experimental processes by up to 6x.  
+My work led to breakthroughs in both sensor design and microfluidic platforms, driving significant impact across multiple projects. These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications.  
+Key milestones include:
 
 - Developed optimized conductivity sensors and bioimpedance models using MATLAB and data analysis techniques, resulting in the adoption of designs by 4 industry leaders, each securing a patent.
 - Designed a microfluidic platform that improved data collection efficiency by 400% and reduced production costs by 70% through innovative material choices.
@@ -24,7 +27,7 @@ This repository documents the complete research process, including key calculati
 
 ## Table of Contents
 
-1. 1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)  
+1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)  
    Projects focused on developing sensor optimization techniques using bioimpedance modeling, leading to 65% improvement in analysis capabilities and industry adoption.
    - [Engineering Models to Determine Optimal Sensor Design (S/W = 0.66)](#1-engineering-models-to-determine-optimal-sensor-design-sw--066)
    - [Calculation of the 65% Improvement in Analysis Effectiveness](#2-calculation-of-the-65-improvement-in-analysis-effectiveness)
