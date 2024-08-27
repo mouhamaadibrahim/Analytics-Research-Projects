@@ -26,6 +26,20 @@ This repository documents the complete research process, including key calculati
 
 ---
 
+**Technical Skills Applied in Research Projects**  
+Throughout my PhD and post-doc work, I leveraged a diverse set of tools and technologies to drive research advancements and optimize experimental processes:
+
+- **Data Analysis & Visualization**: Excel, MATLAB, OriginLab
+- **Bioimpedance Analysis**: EIS Spectrum Analyzer, Custom MATLAB Scripts
+- **Microfluidic Platform Design & Simulation**: COMSOL Multiphysics, AutoCAD, CoventorWare, Maxwell
+- **Data Mining**: EIS Spectrum Analyzer
+- **Statistical Analysis**: Excel
+- **Project Management & Collaboration**: LaTeX, Microsoft Teams
+
+These tools played a crucial role in the development, execution, and analysis of each project, allowing me to extract meaningful insights and achieve quantifiable outcomes.
+
+---
+
 ## Table of Contents
 
 1. [PhD Research: Bioimpedance Modeling and Sensor Optimization](#phd-research-bioimpedance-modeling-and-sensor-optimization)  
@@ -113,7 +127,7 @@ The project was a cross-functional collaboration between:
 - **INM**: Handled glioma cell studies and clinical validation.
 
 #### Methodology Highlights
-- **Data Analysis and Processing**: Led comprehensive data analysis, cleaning, and processing for 50+ experiments, focusing on the impact of different culture environments on glioma cell adhesion under shear stress.
+- **Data Analysis and Processing**: Led comprehensive data analysis, cleaning, and processing for 50+ experiments using Excel, focusing on the impact of different culture environments on glioma cell adhesion under shear stress.
 - **Electrospinning Synthesis**: Created axon-mimicking fibers using electrospinning to simulate neural environments and study cell behavior.
 - **Microfluidic Platform Development**: Integrated shear force generators into the microfluidic system to monitor and analyze single-cell motility.
 - **Cross-Functional Collaboration**: Coordinated fiber analysis, cell culture experiments, and microfluidic design to provide holistic insights into glioma cell migration and adhesion.
