@@ -26,11 +26,12 @@ This repository documents the full research process, including key calculations,
    - [Engineering Models to Determine Optimal Sensor Design (S/W = 0.66)](#1-engineering-models-to-determine-optimal-sensor-design-sw--066)
    - [Calculation of the 65% Improvement in Analysis Effectiveness](#2-calculation-of-the-65-improvement-in-analysis-effectiveness)
    - [Calculation of the 18% Sensitivity Improvement](#3-calculation-of-the-18-sensitivity-improvement)
-   - [References and Resources](#references-and-resources-for-bioimpedance-modeling-and-sensor-optimization)
+   - [References and Resources for Bioimpedance Modeling and Sensor Optimization](#references-and-resources-for-bioimpedance-modeling-and-sensor-optimization)
 2. [Post-Doc Research](#post-doc-research)
    - [Development of an Instrumented Microfluidic Platform (Gliomatrack) for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography](#1-development-of-an-instrumented-microfluidic-platform-gliomatrack-for-studying-glioma-cell-adhesion-and-migration-on-a-3d-fibrous-scaffold-mimicking-neural-topography)
-   - **[Placeholder for Post-Doc Project 2](#placeholder-for-post-doc-project-2)**
-   - [References and Resources](#references-and-resources-for-post-doc-research)
+   - [Electrical Impedance Sensor for Quantitative Monitoring of Cryptosporidium Infection Processes](#2-electrical-impedance-sensor-for-quantitative-monitoring-of-cryptosporidium-infection-processes)
+   - [References and Resources for Project 1: Development of an Instrumented Microfluidic Platform](#references-and-resources-for-project-1-development-of-an-instrumented-microfluidic-platform)
+   - [References and Resources for Project 2: Electrical Impedance Sensor for Cryptosporidium Monitoring](#references-and-resources-for-project-2-electrical-impedance-sensor-for-cryptosporidium-monitoring)
 
 ## PhD Research: Bioimpedance Modeling and Sensor Optimization
 
@@ -142,7 +143,7 @@ This calculation indicates that glass has 102% more detachment than fibers, impl
 - **60% Time Savings in Production**: Simplified the fabrication process, reducing the time required to create the device.
 - **102% Increase in Fiber Adhesion**: Fiber surfaces provided significantly stronger adhesion compared to glass, supporting advanced 3D cell culture systems.
 
-### References and Resources for Post-Doc Research
+### References and Resources for Project 1: Development of an Instrumented Microfluidic Platform
 
 1. **[5 Visualization Zones Single-Flow Device (PDF)](resources/5%20Visualization%20Zones%20Single-Flow%20Device.pdf)**  
    Detailed design document explaining the development of the multi-zone microfluidic device, featuring variable widths and shear stress conditions.
@@ -159,6 +160,29 @@ This calculation indicates that glass has 102% more detachment than fibers, impl
 5. **[NCBI: Microfluidic Device Fabrication (Article)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7921936/)**  
    Overview of the benefits of PDMS-based microfluidic devices, particularly in terms of rapid prototyping and cost-effectiveness.
 
+### 2. Electrical Impedance Sensor for Quantitative Monitoring of Cryptosporidium Infection Processes
+
+#### Project Overview
+This project involved the development of an electrical impedance sensor to monitor the infection processes of the waterborne parasite Cryptosporidium in real-time. By leveraging bioimpedance measurements, the sensor enabled the detection of parasite development stages and offered a rapid, 12-hour infectivity quantification method, which was 6x faster than standard techniques.
+
+#### Objectives
+- Uncover and analyze the development stages of Cryptosporidium in cell cultures using bioimpedance data.
+- Reduce detection times for Cryptosporidium infectivity from 72 hours to 12 hours, offering significant improvements in monitoring waterborne parasite infections.
+
+#### Methodology Highlights
+- **Data Mining and Analysis**: Led data mining analysis on cell culture datasets, identifying 3 key development stages of Cryptosporidium.
+- **Electrical Model Development**: Contributed to the creation of a bioimpedance model that correlated electrical signals with parasite development stages.
+- **Team Collaboration**: Worked within a 5-member team to validate the method across multiple experiments, resulting in a published paper.
+
+#### Results
+- Discovered 3 distinct stages of Cryptosporidium infection, enhancing the understanding of its development.
+- Developed a 12-hour infectivity quantification method that was 6x faster than the existing 72-hour standard.
+- Published a paper detailing the methodology and findings, highlighting the efficiency of the bioimpedance approach.
+
+### References and Resources for Project 2: Electrical Impedance Sensor for Cryptosporidium Monitoring
+
+1. **[Electrical Impedance Sensor for Quantitative Monitoring of Infection Processes on HCT-8 Cells by the Waterborne Parasite Cryptosporidium (PDF)](resources/Electrical%20impedance%20sensor%20for%20quantitative%20monitoring%20of%20infection%20processes%20on%20HCT-8%20cells%20by%20the%20waterborne%20parasite%20Cryptosporidium.pdf)**  
+   Research publication that presents the bioimpedance model and analysis methods used to detect Cryptosporidium infection stages and the resulting improvements in detection time.
 
 ## Contact
 For more information, feel free to reach out at [mouhamaad.ibrahim@gmail.com](mailto:mouhamaad.ibrahim@gmail.com).
