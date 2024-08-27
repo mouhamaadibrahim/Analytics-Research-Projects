@@ -119,7 +119,7 @@ The project involved advanced techniques within the Renatech network, including:
 - Etching and deposition
 - Lithography
 
-### Results and Impact (102% Metric Focus)
+### Results and Impact
 - **400% Improvement in Data Collection Efficiency**: The multi-zone, single-flow device enabled simultaneous measurements across five distinct shear stress conditions, reducing wasted time by 5x.
 - **30% Error Reduction via Strategic Bubble Prevention**: A novel dual-gate injection system was engineered to eliminate air bubbles, a common cause of up to 30% measurement errors in microfluidic systems. By integrating this technique, the device significantly improved data reliability and elevated overall data quality.
 - **70% Reduction in Production Costs**: The shift from silicon to PDMS for microfluidic device fabrication led to substantial cost savings by simplifying the fabrication process and reducing material expenses.
