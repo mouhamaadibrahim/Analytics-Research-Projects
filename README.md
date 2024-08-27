@@ -118,16 +118,6 @@ The project was a cross-functional collaboration between:
 - **Microfluidic Platform Development**: Integrated shear force generators into the microfluidic system to monitor and analyze single-cell motility.
 - **Cross-Functional Collaboration**: Coordinated fiber analysis, cell culture experiments, and microfluidic design to provide holistic insights into glioma cell migration and adhesion.
 
-#### Results
-- Fabricated microfluidic devices and designed systems for studying cancer cell adhesion and migration.
-- Integrated a 3D nano-fiber structure to replicate in-vivo environments, improving the relevance of the experiments to real-world biological conditions.
-
-#### Technological Contributions
-The project involved advanced techniques within the Renatech network, including:
-- Integration and characterization/metrology
-- Etching and deposition
-- Lithography
-
 ### Results and Impact
 - **400% Improvement in Data Collection Efficiency**: The multi-zone, single-flow device enabled simultaneous measurements across five distinct shear stress conditions, reducing wasted time by 5x.
 - **30% Error Reduction via Strategic Bubble Prevention**: A novel dual-gate injection system was engineered to eliminate air bubbles, a common cause of up to 30% measurement errors in microfluidic systems. By integrating this technique, the device significantly improved data reliability and elevated overall data quality.
@@ -144,12 +134,16 @@ Relative Change = [(85% (glass detachment) - 42% (fiber detachment)) / 42% (fibe
 
 This calculation indicates that glass has 102% more detachment than fibers, implying that fibers have a 102% increase in adhesion compared to glass.
 
-#### Quantified Impact
-- **400% Increase in Data Collection Efficiency**: The design allowed for comprehensive experiments in less time, reducing wasted time by 5x.
-- **30% Error Reduction**: Improved data quality and reliability through effective bubble mitigation.
-- **70% Reduction in Production Costs**: Lowered overall production expenses by shifting from silicon to PDMS.
-- **60% Time Savings in Production**: Simplified the fabrication process, reducing the time required to create the device.
-- **102% Increase in Fiber Adhesion**: Fiber surfaces provided significantly stronger adhesion compared to glass, supporting advanced 3D cell culture systems.
+### Technological Contributions
+The project involved advanced techniques within the Renatech network, including:
+
+- Integration and characterization/metrology
+- Etching and deposition
+- Lithography
+
+### Technological Results
+- Fabricated microfluidic devices and designed systems for studying cancer cell adhesion and migration.
+- Integrated a 3D nano-fiber structure to replicate in-vivo environments, improving the relevance of the experiments to real-world biological conditions.
 
 ### References and Resources for Project 1: Development of an Instrumented Microfluidic Platform
 
@@ -182,10 +176,10 @@ This project involved the development of an electrical impedance sensor to monit
 - **Electrical Model Development**: Contributed to the creation of a bioimpedance model that correlated electrical signals with parasite development stages.
 - **Team Collaboration**: Worked within a 5-member team to validate the method across multiple experiments, resulting in a published paper.
 
-#### Results
-- Discovered 3 distinct stages of Cryptosporidium infection, enhancing the understanding of its development.
-- Developed a 12-hour infectivity quantification method that was 6x faster than the existing 72-hour standard.
-- Published a paper detailing the methodology and findings, highlighting the efficiency of the bioimpedance approach.
+### Results and Impact
+- **3 Cryptosporidium Development Stages Identified**: Led the data analysis that revealed three distinct stages of Cryptosporidium infection in cell cultures, offering a deeper understanding of the parasite’s lifecycle and development.
+- **6x Faster Infectivity Quantification Method**: Developed a 12-hour quantification method for Cryptosporidium infectivity, significantly reducing the time required from the standard 72 hours to 12 hours.
+- **Published Research Paper**: Contributed to a published paper detailing the methodology, bioimpedance model, and findings. The paper highlights the efficiency of the bioimpedance approach in quantifying Cryptosporidium infection stages.
 
 ### References and Resources for Project 2: Electrical Impedance Sensor for Cryptosporidium Monitoring
 
