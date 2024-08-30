@@ -1,10 +1,11 @@
 # Research Analytics Projects by Mouhamad Ibrahim, PhD
 
-Welcome to my research-driven analytics Projects! This repository showcases a collection of advanced data analysis, sensor optimization, and bioimpedance modeling projects conducted during my PhD and post-doc work.  
+Welcome to my 🧪 **Research-Driven Analytics Projects** repository! Here, I showcase a collection of advanced data analysis, sensor optimization, and bioimpedance modeling projects from my PhD and post-doctoral research work.  
 From modeling physiological characteristics to analyzing large datasets, I applied statistical techniques and developed models that led to significant research advancements and practical applications in industry and healthcare.
 
-
 ---
+
+### 📚 Research Publications and Impact
 
 **Pioneered data storytelling by authoring 5+ highly cited papers that transformed research into actionable insights—one ranked in the top 25% by Altmetric.  
 My research publication, ["Geometric parameters optimization of planar interdigitated electrodes for bioimpedance spectroscopy"](https://dimensions.altmetric.com/details/81105616#score), reflects the broad impact of my work in the field.**  
@@ -12,21 +13,23 @@ My research publication, ["Geometric parameters optimization of planar interdigi
 
 ---
 
-**Industry Adoption and Impact**  
-Across my PhD and post-doc research, I developed advanced data analysis methodologies and engineered models that expanded analysis capabilities by 65%, boosted sensor sensitivity by 18%, and optimized experimental processes by up to 6x.  
+## Industry Adoption and Impact 🚀
+
+Throughout my PhD and post-doc research, I developed advanced data analysis methodologies and engineered models that expanded analysis capabilities by 65%, boosted sensor sensitivity by 18%, and optimized experimental processes by up to 6x.  
 My work led to breakthroughs in both sensor design and microfluidic platforms, driving significant impact across multiple projects.  
 These advancements were adopted and patented by 4 industry leaders and featured in peer-reviewed publications [as documented here](https://dimensions.altmetric.com/details/81105616/patents).  
 Key milestones include:
 
-- Developed optimized conductivity sensors and bioimpedance models using MATLAB and data analysis techniques, resulting in the adoption of designs by 4 industry leaders, each securing a patent.
-- Designed a microfluidic platform that improved data collection efficiency by 400% and reduced production costs by 70% through innovative material choices.
-- Applied data mining and analysis to cell culture datasets, uncovering key insights that led to a 6x faster method for quantifying Cryptosporidium infection stages.
+- 💡 Developed optimized conductivity sensors and bioimpedance models using MATLAB and data analysis techniques, resulting in the adoption of designs by 4 industry leaders, each securing a patent.
+- 🧬 Designed a microfluidic platform that improved data collection efficiency by **400%** and reduced production costs by **70%** through innovative material choices.
+- 📊 Applied data mining and analysis to cell culture datasets, uncovering key insights that led to a **6x faster method** for quantifying Cryptosporidium infection stages.
 
 This repository documents the complete research process, including key calculations, experimental results, and the real-world impact of these contributions.
 
 ---
 
-**Technical Skills Applied in Research Projects**  
+## Technical Skills Applied in Research Projects 🛠️  
+
 Throughout my PhD and post-doc work, I leveraged a diverse set of tools and technologies to drive research advancements and optimize experimental processes:
 
 - **Data Analysis & Visualization**: Excel, MATLAB, OriginLab
@@ -35,7 +38,6 @@ Throughout my PhD and post-doc work, I leveraged a diverse set of tools and tech
 - **Data Mining**: EIS Spectrum Analyzer
 - **Statistical Analysis**: Excel
 - **Project Management & Collaboration**: LaTeX, Microsoft Teams
-
 These tools played a crucial role in the development, execution, and analysis of each project, allowing me to extract meaningful insights and achieve quantifiable outcomes.
 
 ---
@@ -56,6 +58,8 @@ These tools played a crucial role in the development, execution, and analysis of
    - [References and Resources for Project 2: Electrical Impedance Sensor for Cryptosporidium Monitoring](#references-and-resources-for-project-2-electrical-impedance-sensor-for-cryptosporidium-monitoring)
 
 ## PhD Research: Bioimpedance Modeling and Sensor Optimization
+
+These projects were conducted at the **Institute Jean Lamour (IJL)**, focusing on developing sensor optimization techniques using bioimpedance modeling, leading to a 65% improvement in analysis capabilities and adoption by industry leaders.
 
 ### 1. Engineering Models to Determine Optimal Sensor Design (S/W = 0.66)
 
@@ -111,7 +115,7 @@ This section documents the improvement in sensor sensitivity achieved by reducin
 ### 1. Development of an Instrumented Microfluidic Platform (Gliomatrack) for Studying Glioma Cell Adhesion and Migration on a 3D Fibrous Scaffold Mimicking Neural Topography
 
 #### Project Overview
-This project, conducted at IEMN in collaboration with IEM Montpellier, aimed to develop a microfluidic platform integrated with a 3D fibrous scaffold that simulates the brain’s neural environment. The platform was designed to study glioma cell adhesion and migration, offering insights into the factors influencing glioma growth and migration for personalized therapeutic strategies.
+This project, conducted at the **Institute of Electronics, Microelectronics, and Nanotechnology (IEMN)** in collaboration with **IEM Montpellier**, aimed to develop a microfluidic platform integrated with a 3D fibrous scaffold that simulates the brain’s neural environment. The platform was designed to study glioma cell adhesion and migration, offering insights into the factors influencing glioma growth and migration for personalized therapeutic strategies.
 
 #### Objectives
 - Develop a microfluidic shear force generator for positioning single cells within microfluidic channels and exposing them to controlled shear forces.
@@ -179,7 +183,7 @@ The project involved advanced techniques within the Renatech network, including:
 ### 2. Electrical Impedance Sensor for Quantitative Monitoring of Cryptosporidium Infection Processes
 
 #### Project Overview
-This project involved the development of an electrical impedance sensor to monitor the infection processes of the waterborne parasite Cryptosporidium in real-time. By leveraging bioimpedance measurements, the sensor enabled the detection of parasite development stages and offered a rapid, 12-hour infectivity quantification method, which was 6x faster than standard techniques.
+This project, conducted at the **Institute of Electronics, Microelectronics & Nanotechnology (IEMN)**, involved the development of an electrical impedance sensor to monitor the infection processes of the waterborne parasite *Cryptosporidium* in real-time. By leveraging bioimpedance measurements, the sensor enabled the detection of parasite development stages and offered a rapid, 12-hour infectivity quantification method, which was 6x faster than standard techniques.
 
 #### Objectives
 - Uncover and analyze the development stages of Cryptosporidium in cell cultures using bioimpedance data.
