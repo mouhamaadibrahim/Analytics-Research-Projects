@@ -201,7 +201,6 @@ This project, conducted at the **Institute of Electronics, Microelectronics & Na
 
 ### References and Resources for Project 2: Electrical Impedance Sensor for Cryptosporidium Monitoring
 
-
 1. **[Electrical Impedance Sensor for Quantitative Monitoring of Infection Processes on HCT-8 Cells by the Waterborne Parasite Cryptosporidium (PDF)](resources/Electrical%20impedance%20sensor%20for%20quantitative%20monitoring%20of%20infection%20processes%20on%20HCT-8%20cells%20by%20the%20waterborne%20parasite%20Cryptosporidium.pdf)**  
    Research publication that presents the bioimpedance model and analysis methods used to detect Cryptosporidium infection stages and the resulting improvements in detection time.
 
